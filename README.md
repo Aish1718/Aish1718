@@ -5,7 +5,7 @@
 🧠 Currently diving into Machine Learning and mastering Java.<br/>
 📝 Excited for my upcoming research paper on AI-driven OS and Edge OS to be published in Scopus and Web of Science journals!<br/>
 🌟 Always learning, growing, and creating — one project at a time.<br/>
-🔗 You can connect me on [linkedin](linkedin.com/in/aishwarya-m-c-310055291) <br/>
+🔗 You can connect me on [linkedin](in/aishwarya-m-c-310055291) <br/>
 
 
 ## 🌐 Socials:
