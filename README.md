@@ -1,8 +1,8 @@
 👋 Hi, I'm Aishwarya M C!
 
-🎓 2nd-year Computer Science Engineering student passionate about building creative tech solutions.<br/>
-💻 Skilled in HTML, CSS, JavaScript, Python, C, C++, and MySQL.<br/>
-🧠 Currently diving into Machine Learning and mastering Java.<br/>
+🎓 3rd-year Computer Science Engineering student passionate about building creative tech solutions.<br/>
+💻 Skilled in HTML, CSS, JavaScript, Python, C, C++,MongoDB, Postman, PostgresSQL, Java, Spring Boot,React and MySQL.<br/>
+🧠 Currently diving into Machine Learning and mastering Express, Node Js.<br/>
 📝 Excited for my upcoming research paper on AI-driven OS and Edge OS to be published in Scopus and Web of Science journals!<br/>
 🌟 Always learning, growing, and creating — one project at a time.<br/>
 
