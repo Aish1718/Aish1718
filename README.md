@@ -2,7 +2,7 @@
 
 👩‍💻 Working as Tech Intern in Prudential Plc
 🎓 Final year Computer Science Engineering student passionate about building creative tech solutions.<br/>
-💻 Skilled in Java, Spring Boot, Python, C, Postman, PostgresSQL, Git & GitHub.<br/>
+💻 Skilled in Java, Spring Boot, Python, C, Software Engineering, Postman, PostgresSQL, Git & GitHub.<br/>
 🧠 Currently diving into System Design, DSA and PAM .<br/>
 
 
